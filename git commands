@@ -2,3 +2,6 @@ git config --global user.name "username"
 git config --global user.email "your email"
 use the same username and email that has been used on 
 github to create the account
+
+
+we are in a new branch.
